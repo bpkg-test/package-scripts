@@ -1,0 +1,6 @@
+{
+  "name": "bpkg-test-package-scripts",
+  "version": "0.0.1",
+  "description": "Test repo for package.json scripts based installation",
+  "scripts": ["test.sh"]
+}
